@@ -4,7 +4,7 @@ This is a simple admin dashboard template built with HTML and CSS. It provides a
 
 ## Preview
 
-![Admin Dashboard Preview](preview.png)
+![Admin Dashboard Preview](https://semihmertdev.github.io/Admin-Dashboard/)
 
 ## Features
 
