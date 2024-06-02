@@ -1,31 +1,41 @@
-```markdown
-# Admin Panel Project
+# Book Library Application
 
-An interactive and responsive Admin Panel built using HTML, CSS, and JavaScript. This panel provides a user-friendly interface for managing projects, viewing notifications, and accessing various administrator tools.
+This is a simple JavaScript application for managing a personal book library. Users can add books with details like title, author, number of pages, and mark them as read or unread. They can also remove books from the library.
 
 ## Features
 
-- **Sidebar Navigation**: Easy access to different sections such as Home, Profile, Messages, History, Tasks, Communities, Settings, Help, and Privacy.
-- **Top Header Section**: Includes a search bar, notification bell, profile information, and action buttons for creating, uploading, and sharing new items.
-- **Projects Section**: Grid layout of project cards with project details and action icons.
-- **Announcements Section**: Lists important announcements.
-- **Trends Section**: Highlights trending profiles and projects.
-
-## Technologies Used
-
-- **HTML5**: For content structuring.
-- **CSS3**: For styling and layout.
-- **JavaScript**: For interaction and dynamic content management (to be implemented).
+- Add books with title, author, number of pages, and read status.
+- Remove books from the library.
+- Toggle the read status of books.
+- Responsive design for various screen sizes.
 
 ## Usage
 
-- **Navigation**: Navigate between different sections using the sidebar.
-- **Search**: Use the search bar in the header to search for specific content.
-- **Projects**: View project details in the Projects section and use the action icons for starring, viewing, and sharing projects.
-- **Announcements**: Stay updated with the latest announcements in the Announcements section.
-- **Trends**: Check out trending profiles and projects.
+1. **Adding a Book:**
+   - Click on the "Add Book" button.
+   - Fill in the required details: Title, Author, Number of Pages, and check the "Read" box if you've read the book.
+   - Click the "Submit" button.
 
-## Live Preview
+2. **Removing a Book:**
+   - Each book card has a "Remove" button. Click on it to remove the book from the library.
 
-To view the project live, click [here](https://semihmertdev.github.io/library/).
-```
+3. **Toggling Read Status:**
+   - Each book card also has a "Read" button. Click on it to toggle the read status of the book.
+
+## Installation
+
+No installation is required to use this application. Simply open the `index.html` file in a web browser.
+
+## Preview
+
+[[Book Library Preview]](https://semihmertdev.github.io/library/)
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Credits
+
+This application was created by Semih MERT.
